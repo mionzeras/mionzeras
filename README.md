@@ -1,1 +1,6 @@
+42 progress chart_with_upwards_trend:
+FASE 1:
+
+FASE 2:
+
 [![gcampos-'s 42 stats](https://badge42.vercel.app/api/v2/clk2qovbd004508mje9lqvgjg/stats?cursusId=21&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
